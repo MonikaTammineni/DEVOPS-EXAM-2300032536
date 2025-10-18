@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/2300032536-frontend/',
+  base: 'DEVOPS-EXAM-2300032536',
 })
